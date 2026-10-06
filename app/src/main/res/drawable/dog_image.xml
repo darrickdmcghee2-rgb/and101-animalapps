@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Dog face -->
+    <path
+        android:fillColor="#D9A066"
+        android:pathData="M100,35 C55,35 30,70 30,110 C30,155 60,175 100,175 C140,175 170,155 170,110 C170,70 145,35 100,35Z" />
+
+    <!-- Left ear -->
+    <path
+        android:fillColor="#8B5A2B"
+        android:pathData="M45,65 C15,30 10,80 35,105 L55,90Z" />
+
+    <!-- Right ear -->
+    <path
+        android:fillColor="#8B5A2B"
+        android:pathData="M155,65 C185,30 190,80 165,105 L145,90Z" />
+
+    <!-- Left eye -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M65,95 C65,88 72,84 78,88 C84,92 84,100 78,104 C72,108 65,102 65,95Z" />
+
+    <!-- Right eye -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M122,95 C122,88 129,84 135,88 C141,92 141,100 135,104 C129,108 122,102 122,95Z" />
+
+    <!-- Nose -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M88,115 C88,108 112,108 112,115 C112,123 100,130 100,130 C100,130 88,123 88,115Z" />
+
+    <!-- Mouth -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,128 L100,145 C85,145 80,135 80,135 C88,138 94,138 100,128Z" />
+
+    <path
+        android:fillColor="#000000"
+        android:pathData="M100,128 L100,145 C115,145 120,135 120,135 C112,138 106,138 100,128Z" />
+
+</vector>
